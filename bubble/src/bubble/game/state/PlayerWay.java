@@ -1,4 +1,4 @@
-package bubble.test.ex11;
+package bubble.game.state;
 
 public enum PlayerWay {
 	LEFT,RIGHT;

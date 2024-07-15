@@ -3,6 +3,7 @@ package bubble.test.ex11;
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 
+import bubble.game.state.PlayerWay;
 import lombok.Getter;
 import lombok.Setter;
 
